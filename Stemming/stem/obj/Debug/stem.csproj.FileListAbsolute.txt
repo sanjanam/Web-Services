@@ -1,0 +1,18 @@
+c:\Users\sanjana\documents\visual studio 2013\Projects\Stemming\stem\bin\stem.dll.config
+c:\Users\sanjana\documents\visual studio 2013\Projects\Stemming\stem\bin\stem.dll
+c:\Users\sanjana\documents\visual studio 2013\Projects\Stemming\stem\bin\stem.pdb
+c:\Users\sanjana\documents\visual studio 2013\Projects\Stemming\stem\obj\Debug\stem.csprojResolveAssemblyReference.cache
+c:\Users\sanjana\documents\visual studio 2013\Projects\Stemming\stem\obj\Debug\stem.dll
+c:\Users\sanjana\documents\visual studio 2013\Projects\Stemming\stem\obj\Debug\stem.pdb
+C:\Users\sanjana\Desktop\sanjana_assignment3\Stemming\stem\bin\stem.dll.config
+C:\Users\sanjana\Desktop\sanjana_assignment3\Stemming\stem\bin\stem.dll
+C:\Users\sanjana\Desktop\sanjana_assignment3\Stemming\stem\bin\stem.pdb
+C:\Users\sanjana\Desktop\sanjana_assignment3\Stemming\stem\obj\Debug\stem.csprojResolveAssemblyReference.cache
+C:\Users\sanjana\Desktop\sanjana_assignment3\Stemming\stem\obj\Debug\stem.dll
+C:\Users\sanjana\Desktop\sanjana_assignment3\Stemming\stem\obj\Debug\stem.pdb
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\stem\bin\stem.dll.config
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\stem\bin\stem.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\stem\bin\stem.pdb
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\stem\obj\Debug\stem.csprojResolveAssemblyReference.cache
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\stem\obj\Debug\stem.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\stem\obj\Debug\stem.pdb

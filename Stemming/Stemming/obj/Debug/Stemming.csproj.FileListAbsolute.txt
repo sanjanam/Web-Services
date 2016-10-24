@@ -1,0 +1,102 @@
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Stemming.dll.config
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Stemming.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Stemming.pdb
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Antlr3.Runtime.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\EntityFramework.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\EntityFramework.SqlServer.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Security.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Newtonsoft.Json.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Owin.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\System.Web.Optimization.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\System.Web.Providers.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\WebGrease.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\System.Web.Optimization.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Antlr3.Runtime.pdb
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Newtonsoft.Json.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\EntityFramework.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\EntityFramework.SqlServer.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Security.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\obj\Debug\Stemming.csprojResolveAssemblyReference.cache
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\obj\Debug\Stemming.dll
+c:\users\sanjana\documents\visual studio 2013\Projects\Stemming\Stemming\obj\Debug\Stemming.pdb
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Stemming.dll.config
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Stemming.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Stemming.pdb
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Antlr3.Runtime.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\EntityFramework.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\EntityFramework.SqlServer.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Security.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Newtonsoft.Json.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Owin.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\System.Web.Optimization.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\System.Web.Providers.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\WebGrease.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\System.Web.Optimization.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Antlr3.Runtime.pdb
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Newtonsoft.Json.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\EntityFramework.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\EntityFramework.SqlServer.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Security.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\obj\Debug\Stemming.csprojResolveAssemblyReference.cache
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\obj\Debug\Stemming.dll
+C:\Users\sanjana\Desktop\dsod quiz\sanjana_assignment3\Stemming\Stemming\obj\Debug\Stemming.pdb
