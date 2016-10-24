@@ -1,0 +1,12 @@
+c:\Users\sanjana\documents\visual studio 2013\Projects\News\News_Focus\obj\Debug\News_Focus.csprojResolveAssemblyReference.cache
+c:\Users\sanjana\documents\visual studio 2013\Projects\News\News_Focus\bin\News_Focus.dll.config
+c:\Users\sanjana\documents\visual studio 2013\Projects\News\News_Focus\bin\News_Focus.dll
+c:\Users\sanjana\documents\visual studio 2013\Projects\News\News_Focus\bin\News_Focus.pdb
+c:\Users\sanjana\documents\visual studio 2013\Projects\News\News_Focus\obj\Debug\News_Focus.dll
+c:\Users\sanjana\documents\visual studio 2013\Projects\News\News_Focus\obj\Debug\News_Focus.pdb
+C:\Users\sanjana\Desktop\sanjana_assignment3\News\News_Focus\bin\News_Focus.dll.config
+C:\Users\sanjana\Desktop\sanjana_assignment3\News\News_Focus\bin\News_Focus.dll
+C:\Users\sanjana\Desktop\sanjana_assignment3\News\News_Focus\bin\News_Focus.pdb
+C:\Users\sanjana\Desktop\sanjana_assignment3\News\News_Focus\obj\Debug\News_Focus.csprojResolveAssemblyReference.cache
+C:\Users\sanjana\Desktop\sanjana_assignment3\News\News_Focus\obj\Debug\News_Focus.dll
+C:\Users\sanjana\Desktop\sanjana_assignment3\News\News_Focus\obj\Debug\News_Focus.pdb
